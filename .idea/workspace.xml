@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="protobuf" targetName="server" />
+      <config projectName="protobuf" targetName="helloworld" />
+      <config projectName="protobuf" targetName="client" />
+      <config projectName="protobuf" targetName="gen" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73ce6e06-f079-4670-893d-5201a611766a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Y6rcTiLbGbMFJTT6Fh4yI3pCwz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/proto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.client">
+    <configuration name="client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="grpc" TARGET_NAME="client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="grpc" RUN_TARGET_NAME="client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="grpc" TARGET_NAME="gen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="helloworld" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="grpc" TARGET_NAME="helloworld" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="grpc" TARGET_NAME="server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="grpc" RUN_TARGET_NAME="server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.client" />
+      <item itemvalue="CMake Application.server" />
+      <item itemvalue="CMake Application.gen" />
+      <item itemvalue="CMake Application.helloworld" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73ce6e06-f079-4670-893d-5201a611766a" name="Default Changelist" comment="" />
+      <created>1582273963730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582273963730</updated>
+      <workItem from="1582273967388" duration="8402000" />
+      <workItem from="1582307948554" duration="9211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="158" key="#generateProtoc" timestamp="1582276064663">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="432" y="158" key="#generateProtoc/0.23.1440.813@0.23.1440.813" timestamp="1582276064663" />
+    <state width="1358" height="209" key="GridCell.Tab.0.bottom" timestamp="1582467152553">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1358" height="209" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1582467152553" />
+    <state width="1358" height="209" key="GridCell.Tab.0.center" timestamp="1582467152552">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1358" height="209" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1582467152552" />
+    <state width="1358" height="209" key="GridCell.Tab.0.left" timestamp="1582467152552">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1358" height="209" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1582467152552" />
+    <state width="1358" height="209" key="GridCell.Tab.0.right" timestamp="1582467152553">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1358" height="209" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1582467152553" />
+    <state x="417" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582307952695">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="417" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1582307952695" />
+    <state width="300" height="43" key="javadoc.popup.new" timestamp="1582467151728">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="300" height="43" key="javadoc.popup.new/0.23.1440.813@0.23.1440.813" timestamp="1582467151728" />
+  </component>
+</project>

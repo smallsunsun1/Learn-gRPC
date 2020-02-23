@@ -1,0 +1,11 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/sunjiahe/CLionProjects/protobuf
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.15/Modules/FindProtobuf.cmake:499 (message):
+  Protobuf compiler version 3.6.1 doesn't match library version 3.11.2
+Call Stack (most recent call first):
+  CMakeLists.txt:5 (find_package)
+
+
+/usr/local/lib/libprotobuf.dylib
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/sunjiahe/CLionProjects/protobuf/cmake-build-debug

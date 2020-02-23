@@ -1,0 +1,8 @@
+/Users/sunjiahe/CLionProjects/protobuf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sunjiahe/CLionProjects/protobuf/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sunjiahe/CLionProjects/protobuf/cmake-build-debug/CMakeFiles/client.dir
+/Users/sunjiahe/CLionProjects/protobuf/cmake-build-debug/CMakeFiles/server.dir
+/Users/sunjiahe/CLionProjects/protobuf/cmake-build-debug/proto/CMakeFiles/rebuild_cache.dir
+/Users/sunjiahe/CLionProjects/protobuf/cmake-build-debug/proto/CMakeFiles/edit_cache.dir
+/Users/sunjiahe/CLionProjects/protobuf/cmake-build-debug/proto/CMakeFiles/helloworld.dir
+/Users/sunjiahe/CLionProjects/protobuf/cmake-build-debug/proto/CMakeFiles/gen.dir

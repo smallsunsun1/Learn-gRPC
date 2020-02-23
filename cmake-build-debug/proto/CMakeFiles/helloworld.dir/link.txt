@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libhelloworld.a  CMakeFiles/helloworld.dir/helloworld.pb.cc.o CMakeFiles/helloworld.dir/helloworld.grpc.pb.cc.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libhelloworld.a

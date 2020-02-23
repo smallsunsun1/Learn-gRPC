@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+c70eadd92d48f29e5db211fd18a627f4 proto/message.pb.h
